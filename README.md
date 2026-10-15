@@ -9,7 +9,7 @@ API integration, and cross-platform development.
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 💻 Focused on Java backend development and Spring Boot.
 - 🔗 Experienced in developing and maintaining RESTful APIs.
@@ -56,7 +56,7 @@ API integration, and cross-platform development.
 <tr>
 <td width="50%" valign="top">
 
-### 🧪 Testing & API Development
+### Testing & API Development
 
 - JUnit 5
 - Mockito
@@ -119,28 +119,12 @@ JUnit • Mockito • Firebase • Kafka • Redis • Kubernetes • Spring AI
 
 ## 📂 Featured Projects
 
-### 🚗 Drive Away Price (DAP) Service
-
-A backend application for calculating vehicle on-road prices using
-vehicle information and relevant pricing components.
-
-**Technologies:** Java • Spring Boot • REST APIs • SQL
-
-- Repository: [DAP](https://github.com/SamaRahmani/DAP)
-- Frontend: [DAP-UI](https://github.com/SamaRahmani/DAP-UI)
-
 ### 🔧 Simple CRUD Application
 
 A Java application demonstrating Create, Read, Update, and Delete
 operations and backend development fundamentals.
 
 - [View Repository](https://github.com/SamaRahmani/Simple_Crud_Application)
-
-### 🌐 Developer Portfolio
-
-A personal portfolio project showcasing development skills and projects.
-
-- [View Repository](https://github.com/SamaRahmani/portfolio-frontend)
 
 ### ☕ Java Learning
 
